@@ -1,5 +1,6 @@
 ---
 # defaults file for ansible-vmware
 
-vm_folder: "/DC01/ansiblevms"
-vm_state: poweredon
+vm_datacenter: "ha-datacenter"
+vm_folder: "Discovered virtual machine"
+vm_state: poweredoff
