@@ -1,2 +1,5 @@
 ---
 # defaults file for ansible-vmware
+
+vm_folder: "/DC01/ansiblevms"
+vm_state: poweredon
